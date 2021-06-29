@@ -1,1 +1,1 @@
-# analise-pais
+# Análises simples com pandas para fins de estudo
